@@ -1,0 +1,6 @@
+!!!All Records!!!
+Sam:0
+Elnur:1000
+Elnur:700
+Elnur2:0
+Nicat:0
